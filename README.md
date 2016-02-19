@@ -1,6 +1,8 @@
 # RealTime-Market-Price-Monitoring
 The code attached has the following, 
+
 1. OPTIONS data recording
+
 2. Real time Stock Monitoring using Google Finance(part1) and Yahoo Finance markets (part1)
 
 Also using the fractional root-mean-square volatility we can fairly estimate that if the volatality is high, the stock prices will probably go down, giving the market brokers, 
